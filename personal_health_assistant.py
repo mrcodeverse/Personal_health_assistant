@@ -1,6 +1,7 @@
 import os 
 import csv
 import playsound
+#i have added two tts Gtts is a online module needs intenet for text to speech , in case of no internet i have also added pyttsx3. 
 '''import pyttsx3
 engine = pyttsx3.init()
 voices = engine.getProperty('voices')      
